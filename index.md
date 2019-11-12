@@ -14,6 +14,16 @@ I do not know how to close the pull quote
 
 4. I want to add an image. Do I have to upload it to the repository?
 https://ardalis.com/add-images-easily-to-github
+![grafik](https://user-images.githubusercontent.com/52444151/68688666-7cb58100-056f-11ea-82eb-46fd98816717.png)
+
+>I works
+>I am happy
+
+AH, at the end of the information is uselfull link - so I hope
+https://help.github.com/categories/github-pages-basics/
+Hm, not that useful.
+
+I thought that everything I saw in the theme would be here in code and I just add the content at the right place. Hm. 
 
 You can use the [editor on GitHub](https://github.com/Bubu55/wespeaktech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
