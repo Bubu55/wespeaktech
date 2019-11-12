@@ -9,8 +9,11 @@ And then I encountered this:
 2. What is Mark-Down? There is a tutorial. MarkDown is like styling in html jut easier. 
 >Real easy. 
 >Totally love it.
-I want to add a picture, but I do not knwo how to upload one. 
+I do not know how to close the pull quote
 3. What does "Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files" mean? Jekyll is a site generator that transforms mark-up language into a website. Jekyll comes with nice themes and many explanations and words I do not understand  - yet. Liquid 
+
+4. I want to add an image. Do I have to upload it to the repository?
+
 
 You can use the [editor on GitHub](https://github.com/Bubu55/wespeaktech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
