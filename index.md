@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Hello and Welcome
+So I managed the following things with the tutorial:
+* create a repository
+* choose a theme
+* change the name of the file
+
+And then I encountered this:
+1. What is the editor? This is the editor.
+2. What is Mark-Down? There is a tutorial. MarkDown is like styling in html jut easier. 
+>Real easy. 
+>Totally love it.
+
+3. What does "Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files" mean? Jekyll is a site generator that transforms mark-up language into a website. Jekyll comes with nice themes and many explanations and words I do not understand  - yet. Liquid 
 
 You can use the [editor on GitHub](https://github.com/Bubu55/wespeaktech/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
